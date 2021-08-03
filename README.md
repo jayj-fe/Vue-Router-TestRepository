@@ -10,5 +10,5 @@ npm run serve
 
 ```
 
-[http://localhost:8080/](http://localhost:8080/)
-[http://192.168.219.104:8080/](http://192.168.219.104:8080/)
+- [http://localhost:8080/](http://localhost:8080/)
+- [http://192.168.219.104:8080/](http://192.168.219.104:8080/)
