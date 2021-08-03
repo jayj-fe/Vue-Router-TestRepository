@@ -1,24 +1,14 @@
-# test
+# Vue Router 기초 예제 코드
 
-## Project setup
+[http://jayj-fe.github.io/posts/VueRouter](http://jayj-fe.github.io/posts/VueRouter) 를 작성하며 만든 Vue Router 기초 테스트 예제 코드 입니다.
+
+## 실행하기
+
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
+
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[http://localhost:8080/](http://localhost:8080/)
+[http://192.168.219.104:8080/](http://192.168.219.104:8080/)
